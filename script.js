@@ -3,7 +3,7 @@ const address = "2804:4d98:24a:3900:dd07:fbef:5c9d:29be";
 
 main();
 
-const statusIcon = document.querySelector(".status_icon");
+const statusIcon = document.querySelector(".status_icon img");
 const statusText = document.querySelector(".status_text");
 const players = document.querySelector(".players");
 const playersText = document.querySelector(".players_text");
